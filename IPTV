@@ -647,7 +647,7 @@ https://vtv3-autom3u.quanlehong539.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 group-title=""7. VTV - BACKUP - QUANLEHONG539 - TVPub"" tvg-id="vtv5hd" tvg-logo="https://kubolive.ddns.net/image/5.png" catchup-type="append" catchup-days="7" catchup-source="?st=${start}&end=${end}", VTV5
+#EXTINF:-1 group-title="7. VTV - BACKUP - QUANLEHONG539 - TVPub" tvg-id="vtv5hd" tvg-logo="https://kubolive.ddns.net/image/5.png" catchup-type="append" catchup-days="7" catchup-source="?st=${start}&end=${end}", VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
@@ -711,3 +711,4 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="8. VTV - BACKUP - GIANGNAM0201" tvg-id="vtvcantho"  catchup-days="7" catchup-source="?st=${start}&end=${end}", VTV Cần Thơ
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+
