@@ -1,3 +1,8 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+
+
+
+
 #--*.*--1. VOV RADIO--*.*--#
 
 
@@ -70,10 +75,10 @@ https://strm.voh.com.vn/radio/channel3/chunklist.m3u8
 #--*.*--ĐỊA PHƯƠNG RADIO--*.*--#
 
 
-#EXTINF:-1 group-title=ĐỊA PHƯƠNG RADIO" tvg-id="hanoi90" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/Y2GY5S49YJYF.png", Hà Nội FM90
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" tvg-id="hanoi90" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/Y2GY5S49YJYF.png", Hà Nội FM90
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 
-#EXTINF:-1 group-title=ĐỊA PHƯƠNG RADIO" tvg-id="hanoi96" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/FLKIC39FURRW.png", Hà Nội FM96
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" tvg-id="hanoi96" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/FLKIC39FURRW.png", Hà Nội FM96
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" tvg-logo="https://thainguyentv.vn/stores/tpl_site_cfg_logo/2025/072025/01/08/logo-thainguyentvvn20250701080015.jpg?rt=20250701080015" radio=true,THAI NGUYEN (FM106.5MHz)
@@ -85,19 +90,19 @@ https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" radio=true,QNR2 (FM94.7MHz)
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 
-#EXTINF:-1 group-title="VĐỊA PHƯƠNG RADIO" radio=true,HA TINH (FM97.8MHz)
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" radio=true,HA TINH (FM97.8MHz)
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 
-#EXTINF:-1 group-title="VĐỊA PHƯƠNG RADIO" radio=true,HUE (FM93MHz)
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" radio=true,HUE (FM93MHz)
 https://live.huetv.com.vn/Radio-online/playlist.m3u8
 
-#EXTINF:-1 group-title="VĐỊA PHƯƠNG RADIO" radio=true,PTQ RADIO QUANG NGAI (FM102.9MHz)
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" radio=true,PTQ RADIO QUANG NGAI (FM102.9MHz)
 https://stream.thingnet.vn/radio/quangngai_aac/playlist.m3u8
 
-#EXTINF:-1 group-title="VĐỊA PHƯƠNG RADIO" radio=true,DAK LAK FM (FM92.4MHz,94.7 & 96MHz)
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" radio=true,DAK LAK FM (FM92.4MHz,94.7 & 96MHz)
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 
-#EXTINF:-1 group-title="VĐỊA PHƯƠNG RADIO" radio=true,CAN THO (FM97.3MHz)
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG RADIO" radio=true,CAN THO (FM97.3MHz)
 https://live.canthotv.vn/live/radio/playlist.m3u8
 
 
@@ -187,5 +192,5 @@ https://s9.citrus3.com:8246/stream
 #EXTINF:-1 group-title="QUỐC TẾ RADIO" tvg-logo="https://images.zeno.fm/utorNQJY4T-42EZ76rgUl1OmF3Kx5WJ2axDXCxbyqC8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmZjZWI3NDYtMzdlNi00YWY3LTliYmMtNzU3NjljYzhhMWQwL2ltYWdlLz91PTE3Njg0ODQ2MTUwMDA.webp", LHQ Play
 https://stream.zeno.fm/vwofath8nz8tv
 
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
+#EXTINF:-1 group-title="QUỐC TẾ RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
 https://stream.zeno.fm/kxynzu2qe7duv
