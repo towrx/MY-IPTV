@@ -87,7 +87,7 @@ https://liveh12byt.vtvprime.vn/hls/HAY_TV/04.m3u8
 
 #EXTINF:-1 group-title="01. 💎 VTVcab" tvg-id="ongolf" tvg-logo="https://img.vtvprime.vn/z6uh1Gk6G1HhJL3iJ4_6FfNFndjIYaMmAqhLH_p5cR4/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjNhMGJmOWYtODliYi00MDlmLTgxOTAtYzc5NWNjZWJlMTA1LnBuZw==.png", ONGolf
 #EXTVLCOPT:http-user-agent=KhanggTivi/2.1(private,2.1.1)
-https://kubolive.ddns.net/play/MU05M2wrVHVYSlJiOEJla0NnVTY4VGdYT1d6T2Z0MFBrSGhmeEZnL2hXd2ZreW13VDR3cFRsUXF0WjV1ejFmak9TaWdaZVNMV3JHYTIvYU4rMDJBejZrcHRxRkluZWRLV2JSdS8zbEdOM0U9/master.m3u8?play=122485&mac=65b4c5dab93a730db749472e5ca3574a
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-23-golf-channel/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="01. 💎 VTVcab" tvg-id="onviegiaitri" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTVcab_1.png/revision/latest?cb=20240918002543&path-prefix=vi", Vie Giải trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -190,7 +190,6 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
 
 #--*.*--HVTC--*.*--#
-
 
 #EXTINF:-1 group-title="02. 🧬 HTV x HVTC" tvg-id="htvcthuanviet" tvg-logo="https://htvc.vn/uploads/channel/2022/06/07/2749531-logoc-thuanviet.png", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -667,88 +666,88 @@ https://live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 
 
-#--*.*--06. ⚽ HỘI QUÁN TV--*.*--#
+#--*.*--06. 🔴 ⚽ HỘI QUÁN TV--*.*--#
 
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Củ Hành 
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Củ Hành 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Lương Bổng 
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Lương Bổng 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Người Chớp
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Người Chớp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Ca 
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Ca 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Cáo
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Cáo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Gầy
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Gầy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Hà Linh
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Hà Linh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Mã
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Mã
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Mão
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Mão
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Phép 
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Phép 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Sóc 
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Sóc 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
 
-#EXTINF:-1 group-title="06. ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Thiên Lôi
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Thiên Lôi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 
 
 
 
-#--*.*--07. ⚽ THIÊN ĐÌNH TV--*.*--#
+#--*.*--07. 🔴 ⚽ THIÊN ĐÌNH TV--*.*--#
 
 
-#EXTINF:-1 group-title="07. ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Ngọc Hoàng(A Cháo)
+#EXTINF:-1 group-title="07. 🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Ngọc Hoàng(A Cháo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
 
-#EXTINF:-1 group-title="07. ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Chè 
+#EXTINF:-1 group-title="07. 🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Chè 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
 
-#EXTINF:-1 group-title="07. ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Tàu
+#EXTINF:-1 group-title="07. 🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Tàu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 
-#EXTINF:-1 group-title="07. ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Thiên Vương
+#EXTINF:-1 group-title="07. 🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Thiên Vương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
 
-#EXTINF:-1 group-title="07. ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Văn Hóa(A Bí)
+#EXTINF:-1 group-title="07. 🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Văn Hóa(A Bí)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8
 
-#EXTINF:-1 group-title="07. ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Mèo
+#EXTINF:-1 group-title="07. 🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Mèo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
 
-#EXTINF:-1 group-title="07. ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Văn Nghệ 
+#EXTINF:-1 group-title="07. 🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://sv1.thiendinh.live/logo.png", 🎙️ BLV Táo Văn Nghệ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 
@@ -802,6 +801,18 @@ https://vtv9-autom3u.quanlehong539.workers.dev/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
+#EXTINF:-1 group-title="08. 📌 VTV - BACKUP - QUANLEHONG539 - TVPub" tvg-id="vietnamtoday" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/Vietnam_Today_v2.png/revision/latest?cb=20250813040753&path-prefix=vi", Vietnam Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="08. 📌 VTV - BACKUP - QUANLEHONG539 - TVPub" tvg-id="antvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="08. 📌 VTV - BACKUP - QUANLEHONG539 - TVPub" tvg-id="qpvnhd" tvg-logo="https://qpvn.vn/themes/qpvn/logo/logoqpvn.png", QPVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
@@ -852,10 +863,23 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
+#EXTINF:-1 group-title="09. 📌 VTV - BACKUP - GIANGNAM0201" tvg-id="vietnamtoday" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/Vietnam_Today_v2.png/revision/latest?cb=20250813040753&path-prefix=vi", Vietnam Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="09. 📌 VTV - BACKUP - GIANGNAM0201" tvg-id="antvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="09. 📌 VTV - BACKUP - GIANGNAM0201" tvg-id="qpvnhd" tvg-logo="https://qpvn.vn/themes/qpvn/logo/logoqpvn.png", QPVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+
 
 
 
 #--*.*--10. 📌 VTV - BACKUP - HOIQUANCLICK--*.*--#
+
 
 #EXTINF:-1 group-title="10. 📌 VTV - BACKUP - HOIQUANCLICK" tvg-id="vtv1hd" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv1-hd/KenhCoBan.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
