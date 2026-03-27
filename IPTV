@@ -684,6 +684,10 @@ https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
+#EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Bách 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https:///hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
 #EXTINF:-1 group-title="06. 🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Người Chớp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8
