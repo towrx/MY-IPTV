@@ -104,6 +104,10 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
 
+#EXTINF:-1 group-title="03. 🔴 ⚽ HỘI QUÁN TV x THIÊN ĐÌNH TV ⚽" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Dậu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
+
 #EXTINF:-1 group-title="03. 🔴 ⚽ HỘI QUÁN TV x THIÊN ĐÌNH TV ⚽" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Gầy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
@@ -127,6 +131,10 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8
 #EXTINF:-1 group-title="03. 🔴 ⚽ HỘI QUÁN TV x THIÊN ĐÌNH TV ⚽" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Sóc 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
+
+#EXTINF:-1 group-title="03. 🔴 ⚽ HỘI QUÁN TV x THIÊN ĐÌNH TV ⚽" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Phan Tô 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 
 #EXTINF:-1 group-title="03. 🔴 ⚽ HỘI QUÁN TV x THIÊN ĐÌNH TV ⚽" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", 🎙️ BLV Thiên Lôi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
